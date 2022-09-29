@@ -1,1 +1,1 @@
-# Udacity-Data-Analysis-Projects-
+# Udacity Data Analysis Projects
